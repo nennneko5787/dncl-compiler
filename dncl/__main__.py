@@ -14,8 +14,6 @@ def main():
 
     compileScript(script)
 
-    print(variables)
-
 
 if __name__ == "__main__":
     main()

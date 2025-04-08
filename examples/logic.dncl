@@ -2,3 +2,7 @@ a←1
 b←2
 flag←a＝bでない
 flagを表示
+flag2←a＝bまたはa＜b
+flag2を表示
+flag3←a＝bかつa＞b
+flag3を表示
